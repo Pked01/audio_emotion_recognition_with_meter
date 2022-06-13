@@ -1,6 +1,8 @@
 """ PyConv networks for image recognition as presented in our paper:
     Duta et al. "Pyramidal Convolution: Rethinking Convolutional Neural Networks for Visual Recognition"
     https://arxiv.org/pdf/2006.11538.pdf
+    
+   Editing virtual 
 """
 import torch
 import torch.nn as nn
